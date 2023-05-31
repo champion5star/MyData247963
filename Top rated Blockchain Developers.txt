@@ -1,0 +1,390 @@
+NFT , Blockchain , Smart contract, Defi , Ethereum, Solana & Binance
+$51.00/hr
+7 year ago on 3rd Oct, have got to know first time what smart contract is and from it have been exploring and working on same. Being a Computer engineer, have started my career as an MNC Server developer but left after 2 years as it didn't excite me much, so I went for another exciting thing, i.e. freelancing in Mobile app, which was good and lucrative but still had fewer challenges. Now while searching something new came across to the crypto world; this was new and exciting. First did the understanding, then paid and then developed.
+i.e
+
+First, read and learned about the same, then participated in coin transaction, currently world-first crypto Mutual fund managed with total holding on $500K user money to invest and then started developing. Have played a key role in some ICO launches, token launches and getting the same register on big exchanges.
+
+
+However, in the last 3 years, the NFT world and marketplace have changed the whole view of games, learned the smart contract in more detail, working with the crypto world, open sea SDK and then made own marketplace.
+
+Currently having experience in developing own market place with fewer gas fees setup, royalty setup, random image generation and another similar setup in same. Below are a set of expertise, holding now and working on same as per the need of the project.
+
+
+
+The crypto exchanges, blockchain forks, tokens creation (ERC-20, ERC-721, ERC-1155 NFT), smart contracts, Defi and Ethereum mass payment tools with low gas consumption, NFT Platform, Defi/Dapp Development.
+
+Crypto Games, Metaverse Games, Binance network coin & smart contract deployment BEP721 & ERC721
+
+Have also worked on Solana & Cordano Blockchain setup and have created a smart contract with Lazy minting, Royalty, and other relevant setups.
+
+- NFT marketplace Development
+- Defi/Dapp Development, Smart contract, Ethereum ERC721, ERC1155
+- Cryptocurrencies API: all kinds of BCT and ETH, LTH ...
+- Wallets API: Trezor, Ledger Nano S (ETH) ...
+- Exchanges: Cexio, BitMex, Bittrex ...
+- Integrated with BSC, Ethereum and another network setup
+- Defi Consulting (swaps, liquidity pools, borrowing and lending, yield farming, impermanent loss, governance tokens)
+- AMM DEXs (Liquidity, PancakeSwap, Uniswap, Curve, Balancer, SushiSwap, etc.)
+- NFTs (ERC-721, ERC-1155, Flow, BSC, Polygon, Raible, Opensea, Nifty, etc.)
+- SSI and identity solutions, attestation and verification
+- Exchanges, mining
+- Marketplaces and ecosystems
+- Token standards (ERC, BEP)
+
+
+
+
+The segment have worked and developed.
+
+1) Worked with Mobile app development where integrated with different Blockchain Network
+2) Integrated with BSC, Ethereum and another network setup
+3) Wallet creation and crypto coin Management
+4) NFT management on the mobile app
+5) Blockchain transaction management
+6) Fin-tech Management and trading apps
+
+
+Holding Expertise in Below mention setup
+
+- Defi Consulting (swaps, liquidity pools, borrowing and lending, yield farming, impermanent loss, governance tokens)
+- AMM DEXs (Liquidity, PancakeSwap, Uniswap, Curve, Balancer, SushiSwap, etc.)
+- NFTs (ERC-721, ERC-1155, Flow, BSC, Polygon, Raible, Opensea, Nifty, etc.)
+- SSI and identity solutions, attestation and verification
+- Exchanges, mining
+- Marketplaces and ecosystems
+- Token standards (ERC, BEP)
+
+Below is are cord set up with work and develop
+- NFT Market Place
+- Royalty Setup
+- Least gas fee Practises
+- Random Mining setup
+- NFT airdrop setup
+- Whitelist Wallet address
+- Worked with Ethereum, Solano and Cordano blockchain.
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+I am an 𝐄𝐱𝐩𝐞𝐫𝐭 𝐁𝐥𝐨𝐜𝐤𝐜𝐡𝐚𝐢𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫.
+Have a sound knowledge of Blockchain architecture and the best concepts.
+
+Strong understanding and experience in:
+* Blockchain, Ethereum, Web3, Metamask, NFT, wallet connections
+* DeFi dapps, Cryptocurrencies, Smart Contracts, ERC-20 tokens, stable coins, etc
+* React, Node, JavaScript/Typescript, etc.
+
+HAVE:
+— Excellent Understanding of Blockchain technology and architecture.
+— Proficiency in Ethereum, Web3.
+— Solid grasp of cryptography and security principles.
+— Experience with distributed systems and peer-to-peer networking.
+— Knowledge and good understanding of Smart Contracts.
+— Familiarity with Algorithm and Data Structures.
+— Strong understanding and experience in general web development.
+— Proficiency in different programming languages, like PHP, JavaScript and frameworks.
+
+CAN:
+— Develop Blockchain application on Ethereum/Web3 from scratch,
+— Design Blockchain protocols and secure network architecture,
+— Design security patterns for the network,
+— Build the blockchain components using different programming languages,
+— Develop front-end designs according to the requirements,
+— Develop high-quality front-end designs for Dapps,
+— Build back-end according to the Blockchain protocols,
+— Develop application features and interfaces,
+— Research, analyze and design blockchain networks, protocols and decentralized applications,
+— Plan security across the blockchain network,
+— Research and evaluate new tools and technologies to integrate them into a blockchain network,
+— Develop, test, maintain a blockchain network.
+
+Can run your Blockchain project successfully!
+Let's discuss further.
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Blockchain & Crypto dev | DEX, DeFi, Wallet, NFT Marketplace, Staking
+$25.00/hr
+Rated developer on UpWork, specialized in Python development focused on Blockchain and Cryptocurrency!
+We have experience in both centralized and decentralized platforms (CEX, DEX), at Exio.tech we develop automated trading and analyzing solutions. We provide Staking, Wallet, Marketplace solutions. We have experience in building Custom DApps, Crypto Gambling and Betting platforms, DeFi Ecosystems, Trading Platforms and Exchanges, Crypto Lending/Borrowing Platforms, Clone Swaps, etc.
+
+Being a part of a blockchain development company, I assure to provide the best solution for your trading strategies. Below is the list of platforms/solutions I have worked with:
+
+Solutions we provide:
+✔ DEX
+✔ CEX
+✔ Advanced Trading Platform (Stocks, CFD, Forex, Option, Features...)
+✔ Portfolio Tracking Platform
+✔ Multichain Web and Mobile Wallet
+✔ Crypto Betting and Casino
+✔ Yield Farming Protocols
+✔ Liquidity Mining Protocols
+✔ Automated Market Making (AMM) protocols
+✔ Flash Loans, Trading Bots, Liquidity Bot
+✔ Impermanent loss, governance tokens, synthetic token
+✔ P2P/Pool Lending and Borrowing
+✔ Crypto Collectible Platforms and Non-Fungible Tokens
+✔ Custom dApps, Smart contracrs, Tokens
+✔ ERC20, ERC777, ERC223, ERC721, ERC1155 Smart Contract Development
+✔ Forsage, Linos Share, BestMining like MLM Crowdfunding HYIP Platforms
+✔ ICO, STO, Blockchain Copyrighting and Whitepapers
+✔ Token Design - Stabilcoins, Utility, Security, Investment, Dividend coins
+✔ Fork- PancakeSwap, SushiSwap
+
+Bot developments I have done:
+- Arbitrage Bot
+- Arbitrage, triangular/statistical arbitrage
+- Algorithmic trading and automating trading strategies
+- Trading Bot
+- Trading bots for the BTC-E exchange
+- Sampling, margins of error in Crypto Trading Bots
+- Backtesting trading strategies for Crypto market
+- Sniper/Sniping Bot
+- Front Running Bot
+- Liquidator Bot
+- Signal Bot
+- Telegram Bot
+- Market Making Bot
+- DEX Listing Bot
+- Minting Bot
+- Alert Bot
+- Tipping bot
+- NFT Arbitrage
+- Multi-asset trading systems
+- Algorithmic Trading Strategies
+- Trade Station, TradingView, WebHooks
+- Price data testing trading strategies
+- Maintenance of trading and charting platforms and scanners
+
+Different crypto/blockchain/bot/trading projects I mastered during my experience:
+- Financial Information eXchange. FIX 4.4, 5.0, FIXT 1.1, QuickFIX
+- Cryptocurrency
+- Crypto API (Binance, Huobi, OKEx, Bitfinex, Bittrex, Kraken, GDAX, BitFlyer, Poloniex)
+- OpenCL/GPU implementation of the bitcoin and litecoin mining algorithms
+- Building crypto exchanges
+- Custodian solutions
+- Staking platforms / NFT Staking
+- Minting platforms
+- Crypto wallet
+- Building brokerage platforms
+- MasterNode pools
+- Technical analysis tools and automation
+- Order routing engines
+- Commodity risk analytics
+- Market feed integration
+
+I provide the following solutions:
+- Smart contract audits
+- KYC/AML integration
+- On-platform wallet creations
+- Creation of API's to link your native token to a web platform
+- Quant strategies as custom software for range of major trading platforms.
+
+
+I am a Full Stack Developer who is specialized in
+- PHP, Python, and frameworks
+- JavaScript, Node.js
+- React.js, Vue.js
+- Trading Technologies API
+- Solidity
+- Blockchain development, web3.js, Ethers.js, Solidity
+- SQL, AWS
+
+Looking for professional Trading Bot developer who is also specialized in Finance and Crypto Industry- let's get started!
+
+////////////////////////////////////////////////////////////////////////////////////////////
+
+Blockchain Development, Cryptocurrency & Blockchain Developer
+$35.00/hr
+Blockchain developer, specialized in custom cryptocurrency and blockchain development, having extensive experience in ICO, POS – Proof of Stake, blockchain website, web portal, & smart contracts application development.
+
+I am very proficient with the solidity programming language, Ethereum, token generation, digital currency exchange, proof of work (POW), and building innovative, highly customized, robust, feature-packed, and modular blockchain development solutions.
+
+I am responsible for designing and implementing new innovative features and functionalities, establishing the blockchain, cryptocurrency, ICO, smart contracts application architecture, ensuring high-performance and availability, and managing all blockchain development & technical aspects. I work closely with project stack holders and end customers to provide an effective, visually appealing, and intuitive implementation.
+
+As a full-stack blockchain developer & solidity programmer, I have successfully delivered a wide range of custom cryptocurrency and blockchain development projects using the solidity language with eye-catching user-friendly UI design and high-end functionalities. I understand all aspects of developing Blockchain applications: design, architecture, development, and publishing.
+
+With the consummate evaluation of your blockchain development requirements and comprehensive engagement in blockchain technology, I provide custom application development, token generation, creative theme development, and maintenance services that cater to myriad industry verticals.
+
+Are you looking full time & dedicated blockchain developer to develop a user-friendly high-end functionality based ICO, cryptocurrency, or smart contracts web application? I will love to engage myself as a full-stack blockchain developer and assist you with innovative and creative strategies.
+
+My Technical Blockchain Development Expertise:
+⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷
+Being a full-stack blockchain developer, I have decent expertise in Blockchain development and custom smart contract application development technologies:
+
+✅ Server-Side Languages: PHP, Node JS
+✅ Frameworks: Express Js, YII2, Laravel, CakePHP
+✅ JavaScript Frameworks: Angular Js, Jquery.
+✅ Smart contract language: Solidity
+
+✅ Data Management:
+o RDBMS: MySQL 5.X, PostgreSQL, Amazon RDS
+o NoSQL: MongoDB.
+o Caching: Memcached, Redis
+o Searching: Solr, Lucene, Elasticsearch, Amazon CloudSearch
+
+✅ Queue: ActiveMQ, Amazon SQS
+✅ Server Technologies: Linux, Ubuntu
+✅ Cloud Computing Platforms: Amazon Web Services
+
+✅ Frontend Stack:
+o Languages: HTML5, CSS3, Sass, JavaScript
+o UI Frameworks: Bootstrap, jQuery UI
+o JavaScript Frameworks: React, Backbone.js, Angular 2
+
+✅ Third-Party APIs Integration:
+o Payment Gateway: PayPal, Stripe, Authorize.Net, Coinpayments.net
+o Social: Facebook, Twitter, Google+
+o Geo-location: Google Maps, Bing Maps
+o File Storage: Dropbox, Google Drive
+
+Blockchain Development Services We Offer:
+⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷
+Being a full-stack blockchain developer & solidity programmer and associated with an ISO certified blockchain development company, I develop rapid, error-free website & web applications to achieve an enterprise's functionality implementation and business logic with minimum complexities
+
+✅ Custom Blockchain Development
+✅ Smart Contracts Development
+✅ dApps Development
+✅ Crowdsale
+✅ Hyperledger & Multichain Development
+✅ Multichain/Supply Chain Development
+✅ Custom Cryptocurrency Development
+✅ Crypto App Development
+✅ ICO Web Development
+✅ POC Development
+✅ Cryptocurrency Wallet and Exchange Applications
+✅ Private Blockchain Development
+✅ Blockchain Consulting
+✅ Blockchain Testing
+✅ Ongoing Blockchain Development Support and Maintenance
+
+✅ Full-Stack Blockchain Development
+✅ Full Time Dedicated Blockchain Developer
+✅ Half Dedicated Blockchain Developer Hourly Basis
+
+How do we communicate and report?
+⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷⟷
+We always prefer to keep our work transparent, and for this reason, we like to be in touch with our valued clients on a daily, weekly & monthly basis.
+
+According to the requirement, we use many types of project management tools for the blockchain development project's communication.
+
+⦿ Upwork Message Board
+⦿ JIRA
+⦿ Azure DevOps Server
+⦿ Asana
+⦿ Trello
+⦿ Zoho Projects
+
+/////////////////////////////////////////////////////////////////////////////
+
+Blockchain Developer | 30M+ in NFT drops generated | Sandbox Partner
+$75.00/hr
+✅ Sandbox Partner®
+✅ Lil Durk’s (𝟏𝟎𝐌+ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐟𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬) NFT Collection Smart Contract Engineer  
+
+Looking to create a new Axie Infinity & disrupt the market?  
+
+Launching an NFT drop and not sure on best strategies to sell out, whitelists, Merkle Trees & smart contract security measures?  
+
+Speaking with a range of so-called blockchain experts claiming they can do everything but can’t answer basic questions & consult you?  
+
+Look no further, you just found your Wild Card.
+
+————————————————————————————
+————————————————————————————
+
+I’ve been in the space for a long time, starting with ICOs & PoS coins to zkSync & Metaverse.
+
+  I know what works and what’s not, I know how to make sure you won’t get hacked by poor smart contract development & testing losing months of work & hundreds of thousands of dollars invested with one poor development mistake.  
+
+My paradigm for smart contracts: 30% time development, 70% time testing. Being secure is the most valuable thing on the market.
+
+  Here is what I can do for you:
+💠Metaverse development & integration
+💠Solidity, Web3, Metamask, Stellar
+💠ERC-20, BEP-20 tokens
+💠NFT smart contracts, whitelists, Merkle Trees 💠Smart contract audit
+💠AMM, DEXs, DeFI projects
+
+————————————————————————————
+————————————————————————————
+
+
+How can you be sure you can trust this guy? Here is one of the reviews of my NFT client who sold out:  
+
+⭐️⭐️⭐️⭐️⭐️ “Ilya and his team are a real asset to the project - we got so much value from his consulting on how to solve the business problem with a blockchain solution, create proper architecture & infrastructure, how to work through security issues, how to integrate web2 & web3 smoothly - Ilya is the partner on the project, not just someone who does a bunch of smart contracts for you with spaghetti code, 0 optimization, tons of bugs, bad communication, low-quality front-end, and leaves."  
+
+————————————————————————————
+————————————————————————————  
+
+I have to say my time is very limited right now - meaning that I can only work with a handful of clients at the same time - so the quicker you will respond to me, the better.
+
+  Blockchain consulting is being sold at $1500/hr, if I sent a proposal to your job post that means you can get one for free.  
+
+✅ Hit that 𝐁𝐢𝐠 𝐆𝐫𝐞𝐞𝐧 𝐁𝐮𝐭𝐭𝐨𝐧 and drop me a message ✅
+
+//////////////////////////////////////////////////////////////////////////////////////
+
+Blockchain: Solidity Smart Contracts & DApps for DeFi, NFT & GameFi
+$70.00/hr
+Web and Mobile development services for Blockchain and Crypto startups.
+Building Custom DApps, Crypto Gambling and Betting platforms, DeFi Ecosystems, Decentralised Trading and Analytic Solutions, Trading Platforms and Exchanges, Crypto Lending/Borrowing Platforms, Clone Swaps, Crypto Wallets.
+
+Drop me a line to see my full portfolio!
+
+Solutions we provide:
+✔ DEX, Centralized Crypto Exchange and Hybrid Exchanges
+✔ Advanced Trading Platform (Stocks, CFD, Forex, Option, Features...)
+✔ Portfolio Tracking Platform
+✔ Multichain Web and Mobile Wallet
+✔ Crypto Betting and Casino
+✔ Yield Farming Protocols
+✔ Liquidity Mining Protocols
+✔ Automated Market Making (AMM) protocols
+✔ Flash Loans, Trading Bots, Liquidity Bot, Arbitrage Bots
+✔ Impermanent loss, governance tokens, synthetic token
+✔ P2P/Pool Lending and Borrowing
+✔ Crypto Collectible Platforms and Non-Fungible Tokens
+✔ Custom dApps, Smart contracrs, Tokens
+✔ ERC20, ERC777, ERC223, ERC721, ERC1155 Smart Contract Development
+✔ Forsage, Linos Share, BestMining like MLM Crowdfunding HYIP Platforms
+✔ ICO, STO, Blockchain Copyrighting and Whitepapers
+✔ Token Design - Stabilcoins, Utility, Security, Investment, Dividend coins, Tokenomics
+✔ NFT Marketplace, NFT Staking Platform, NFT Wallets, NFT Minting dapps
+
+
+✔ API Development and Integration:
+blockchain.info, infura.io, poloniex.com, bitfinex.com, hitbtc.com, coinbase.com, kraken.com, cex.io, coinmarketcap.com, cryptokitties.co, uniswap.org, aave.com, yearn.finance, sushiswap.org
+
+
+✔ Platfoms:
+Ethereum, Binance Smart Chain (BSC), Huobi ECO Chain (Heco), Polygon (Matic), Fantom, Egem, Avalanche, TomoChain, any EVM compatible platform.
+
+✔ DeFi development:
+Yearn, Uniswap, Curve, Olympus DAO, Balancer, Synthetic, Compound, Aave, Mooniswap, Fulcrum, dYdX, SushiSwap, Zapper, Maker, insstaDApp, Bancor, Loopring, Polkadot, Substrate, WBTC, RenVM, DDorce, mStable, Alchemy, Binance Launchpool (BellaProtocol), MLM, NFT, BakerySwap, Pickle, Fortube, PerlinX, UMA Project, YFV, YFII, Synthetix, dForce, Swerve, Zoom Protocol, Pancake Swap.
+
+✔ Fast DeFi Clone:
+forks of apeswap, quickswap, pankcakeswap, sushiswap, moonswap, bakeryswap, apeswap, pantherswap, olympus dao, 1inch and more.
+
+✔ Blockchain stack :
+Web3, Solidity, Infura, Hardhat, Truffle, OpenZeppelin, MIST/Remix, BTC, ETH, TRON, USDT, YFI, Bel, Solana, Polygon (Matic), BSC
+
+✔ Wallets and Clients:
+MEW, Geth, Parity, Gemini Mist, Metamask, Ganache, Trust Wallet
+
+
+✔ APIs we work with:
+KuCoin, Bittrex, Bittrex Global, Coinbase Pro, Binance, Kraken, Poloniex, Huobi, Gemini, Bibox, BitMart, Huobi Global, HitBTC, OKEX, Bitstamp.
+
+
+Web Stack:
+✔ Web3.js, Ethereum, Solidity, Truffle, Hardhat, Polygon, BSC
+✔ JavaScript/ Typescript, Vue.js, React.js, Node.js
+✔ MySQL, MongoDB, Redis
+✔ TDD methodology (Unit-testing)
+
+
+Have Turnkey and Whitelabel solutions for your fast start.
+Can provide dedicated teams for constant product growth.
+Just drop me a line!

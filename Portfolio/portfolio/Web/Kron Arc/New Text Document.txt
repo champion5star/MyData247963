@@ -1,0 +1,9 @@
+Kron Arc
+Digital DesignUI DesignBrandingUX DesigniOS App DesigniOS Design GuidelinesCreative DirectionMobile UI DesignProduct DesignUser Experience (UX)Design StrategyFigma
+https://www.kronarc.com
+Kron Arc is a calendar app that approaches time differently.
+The experience is focused on being able to view and compare multiple event lengths from different calendars all at once and gives the user a bird's eye view of how the time is spent on different activities from a macro to micro level.
+
+The challenge behind the design concept was to make the visualization seamless and dynamic through time. Therefore, the orbital concept, where lines on the orbital spaces represent different events.
+
+My role in this project was to create the full product concept, interactions, prototypes, and branding.

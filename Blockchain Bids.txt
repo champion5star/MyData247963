@@ -1,0 +1,231 @@
+𝐒𝐞𝐧𝐢𝐨𝐫 𝐁𝐥𝐨𝐜𝐤𝐜𝐡𝐚𝐢𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
+
+I am a highly experienced blockchain developer.
+Have 7 years of experience in development.
+
+𝐏𝐫𝐨𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲 𝐢𝐧:
+— Blockchain, Ethereum platform
+— Web3.js, MetaMask
+— Non-fungible tokens (NFTs)
+— Solona
+— Cryptocurrencies
+— JS, Node.js, React.js, etc
+
+* 100% quality work
+* F/T availability
+* Immediate start
+* Willingness to sign NDA
+
+https://armenia-coin.com/en
+The First Armenian Blockchain Platform.
+One of my projects, smart contracts, token creation.
+
+https://idep.network/
+IDEP is revolutionizing decentralized digital media by creating new standards and tools to enable a blockchain-based digital content economy.
+Creating backend and database that saves NFTs, subscribe to events on the locally deployed node websocket via localhost. The code is written with Node.js, using Hasura + PostgresDB.
+The project is NFT platform with using Cosmos-Rest API Spec, Ethereum JSON RPC API Reference.
+The website is still under development.
+
+https://app.safariswap.io/
+I worked on Frontend only. Code was written on React. Project was strongly typed with Typscrip, were being used Redux as a state management. The project is NFT platform. I used Solidity, developed blockchain smart contracts and interact with them. Worked on /Upgrade page, /My Inventory, /Home page, /NFT staking.
+The whole project was built in styled components, also made bug fixes and worked on translation part of the project.
+Project last for 2 month.
+
+Let's discuss further.
+Thanks!
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Describe your dAPP experience in detail.
+
+Although there were some challenging parts, our experience, professionalism, skills, and ability to communicate always help us to implement projects successfully. We are open to new ideas and ready to learn new things.
+
+What frameworks have you worked with?
+
+We are proficient in using different frameworks... they depend on the requirements. We can build with Solidity, Python, Web3 and for the website, we are flexible.
+Since we work with Solidity, we are comfortable with any Ethereum convertible projects.
+
+Describe your approach to testing and improving QA
+
+We have a QA, who works on every project. We have experience in both manual and unit testing. Also, for an Agile team, testing is in the core of success.
+
+Hi there, sounds interesting!
+Have delivered a couple of similar projects, ready to discuss!
+
+I work within a blockchain and crypto development company, called Exio.tech.
+
+We fork and clone websites, build custom Smart Contracts, DEX AMM, marketplaces, different kinds of bots and trading platforms, integrate and create wallets, make NFT Minting and Staking platforms, smart contract protocols, games and online casinos, appropriate daps, and many more.
+
+Also, here are listed some of our past projects:
+- https://www.tacoswap.io/earn
+- https://peergame.com/
+- https://ataix.com/
+- https://combine.finance/
+- https://play.google.com/store/apps/details?id=com.iswap.wallet
+
+If you have 15 minutes to discuss the project I would love to jump on a fast call!
+
+Regards
+Ham
+
+///////////////////////////////////////////////////////////////////
+
+Describe your dAPP experience in detail.
+
+I took part of creating few dAPP applications before
+
+What frameworks have you worked with?
+
+node.js, react.js, node.js, CSS frameworks
+
+Describe your approach to testing and improving QA
+
+Writing tests, following agile, having a QA guy in the team
+
+Hello there, please consider me, I can start ASAP
+I'm strong enough with: web3.js, smart contracts, blockchain, NFT, node.js, typescript, javascript, ReactJS/Redux, Express.js, Next.js, SEO, GitHub, GitLab used Tailwind CSS, Material UI, and Bootstrap. I can create an adaptive and responsive layout, using Zeplin, PSD, etc.
+Also, I have experience with AWS (CI/DI, used Jenkins and Code Pipeline to deploy the web services and sites.), Google Cloud, Heroku (Creating CI/CD as well)
+I know how to write clean and reusable code to be easily scalable in the future. I'm having experience of how to get the max score of the web page loading (90+ on google page speed test).
+I worked on big projects where we have around 200 services (back and front). One of them is https://sports.bwin.com - a gambling project (betting and games).
+
+Here are my recent work done /worked on:
+https://www.swissactivities.com/ - react.js, next.js
+https://vakilsearch.com/ - react.js, next.js
+https://betnomi.me - react.js with typescript
+https://livescore.com/ - react.js with typescript
+https://deskera.xyz/ - react.js, typescript, next.js
+https://www.jada-30.com/en - react.js, material UI
+https://thevneo.com/ - react.js, material UI
+https://espresslabs.com/, https://besouw.nl/, https://food52.com/,
+https://igetfamous.com/, https://www.size.ly/ - small web sites
+
+There is not a full description in my profile.
+Please, contact me and I will be happy to discuss your project
+
+//////////////////////////////////////////////////////////////////////////
+
+Cover letter
+Describe your dAPP experience in detail.
+
+DApps are decentralized, they are free from the control and interference of a single authority. Benefits of dApps include the safeguarding of user privacy, the lack of censorship, and the flexibility of development.
+
+What frameworks have you worked with?
+
+I'm a Blockchain Architect & Developer skilled in Blockchain Platforms(Hyperledger (fabric/sawtooth/Indy) Bitcoin forked, NEO, Ethereum, Multichain, Quorum, EOS), Corda and Integration Technologies. I can surely assist you and built your Server/DB on AWS, Web Wallet, Mining, Crypto Website and Listing on Exchanges.
+
+Describe your approach to testing and improving QA
+
+The approach which we follow is: during the development phase of any module, the developers get involved with the Quality Assurance Process and perform regular code reviews and unit testings. Then, the test team take over and perform all manual and automated testing activities at the application's API and UI levels.
+
+Dear Client,
+
+I have reviewed your job description and understand that you are looking for an experienced full stack blockchain developer to join your team and work on your multiple blockchain projects.
+
+Some latest completed blockchain-NFT projects-
+1. https://kroleo.com/ttdata/
+https://www.flexsin.com/portfolio/Developed-An-Internet-Of-Blockchains-For-A-Technology-Leader-With-Hyperledger-Fabric/
+2. https://www.encryptuscapital.com/
+https://www.flexsin.com/portfolio/end-to-end-tokenization-platform-to-build-and-manage-blockchain-based-digital-assets/
+3.http://multiledgers.com/
+https://www.flexsin.com/portfolio/build-Blockchain-dlt-networks-baas-to-manage-and-optimize-the-multi-or-hybrid-cloud-computing-infrastructurb/
+
+Please share this complete NFTs marketplace project.
+1. https://dev.ntftc.flexsin.org/
+2. https://nft.wazirx.org/
+3. https://travelfutures.club/
+
+Please have a look at our experience: https://www.flexsin.com/metaverse/
+Our blockchain portfolio: https://www.flexsin.com/portfolio/services/blockchain/
+
+I will be happy to assist you with this project.
+
+I'm a Blockchain Architect & Developer skilled in Blockchain Platforms(Hyperledger (fabric/sawtooth/Indy) Bitcoin forked, NEO, Ethereum, Multichain, Quorum, EOS), Corda and Integration Technologies. I can surely assist you and built your Server/DB on AWS, Web Wallet, Mining, Crypto Website and Listing on Exchanges.
+
+About us:
+Flexsin is the #1 Blockchain Development Company on Upwork." https://www.upwork.com/agencies/blockchain-agencies/
+We have a team of more than 25+ Blockchain developers, and our blockchain development services are intended to capacitate business operations.
+We are also glad to inform you of the business partnership of Flexsin Technologies with Multichain (a Blockchain Framework Worldwide) - https://www.multichain.com/platform-partners/
+
+Blockchain is seeing wider adoption in a range of industries including financial institutions, gaming, IoT, exchanges, education, fin-tech, retail, health, E-commerce, and a lot more
+
+As next steps, I'd certainly prefer to know more about the project requirement like:
+· Features/ workflow, roadmap, & project requirement document
+
+Hence, may I request you to please share your valuable time to connect on a discovery call, & plan the next steps (I am open to take call at your time zone)
+
+Looking forward to speaking with you soon!
+
+Thanks,
+Himanshu
+Blockchain Developer
+
+/////////////////////////////////////////////////////////////////////////////////////////
+
+Describe your dAPP experience in detail.
+
+Let's have a talk and discuss
+
+What frameworks have you worked with?
+
+web3js, Moralis and others
+
+Describe your approach to testing and improving QA
+
+positive
+
+I don’t usually look for new clients, but your post took my attention since I've recently done several successful NFT launches consulting clients on best practices to sell out.
+
+I’m responsible for 2 world's biggest NFT drops this month & next one:
+http://adventrobots.com/ (Advent Entertainment, worked with Stan Lee & Larry King involved)
+https://www.nxtg3nz.com/ (Lil Durk, Sandbox, Gary Vee involved)
+
+Here is what my recent client who sold out says:
+⭐️⭐️⭐️⭐️⭐️ "Ilya and his team are a real asset to the project - we got so much value from his consulting on how to work with whitelists at different stages, what are the most effective marketing channels, how to make sure the drop won't get hacked, how to use discord bots properly - Ilya is the partner on the project, not just someone who does smart contract for you with spaghetti code, 0 optimization, tons of bugs, bad communication and leaves. "
+
+Surely you want to work with somebody with deep NFT knowledge, someone who can not only engineer but consult you on the industry trends & best practices. If that’s the case, I can help you.
+
+Maybe this will be a perfect fit for us. I expect people to give business their all, and I return the favor. If you’re truly passionate about this, let’s hop on a call.
+
+There, I showcase my previous experience with regard to NFTs.
+
+I also provide case studies of some of my previous clients.
+
+And lastly, I describe exactly the reasons why you should go with me, over someone else.
+
+Smart contract is 10% of the NFT drop work that can endanger the 90% - get a partner, not a developer.
+
+NFT drop consultations from qualified & experienced NFT engineers are being sold at $1500/hr - today is an opportunity to get one for free.
+
+Reply to this message to set up a time to chat.
+
+Kind regards,
+Ilya
+
+///////////////////////////////////////////////////////////////////
+
+Cover letter
+Describe your dAPP experience in detail.
+
+It was challenging, but our experience in the required, professionalism, skills, and ability to communicate always help us to implement projects successfully.
+
+What frameworks have you worked with?
+
+Hardhat, Truffle, react, Vue.js
+
+Describe your approach to testing and improving QA
+
+As we are a team we have QA engineers who are responsible for testing and improving.
+
+Hello,
+You need to hire a developer to join your team and work on your project, right?
+We are a blockchain, development, and design agency that have been solving problems in this sphere for various businesses for more than four years. We have available solidity and react developers who can join. You can also check below our works and also the website with case studies of trading platforms, exchanges, DeFi DApps, and many more.
+
+https://exio.tech/decentralized-crypto-exchange/
+https://www.tacoswap.io/swap
+https://app.combine.finance/swap
+
+I am available to talk and clarify all the details.
+What about today at a convenient time for both of us?
+
+Regards,
+Hakob

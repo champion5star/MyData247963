@@ -1,0 +1,84 @@
+ and Web and Mobile Application Expert
+----------------------------------
+I am a full-stack and mobile app developer with 7 years specializing in web and mobile developer.
+
+-My skills-
+Backend: node.js, Laravel, Django, Express
+Frontend: React.js, vue.js, Angular, CI
+Mobile: React Native, ionic
+
+I love Web developing.
+Every project is a journey which brings new friends and gives self-fulfillment.
+I can speak programming is my job and is my life too.
+So I am learning to arrive higher and higher level for this.
+I work towords understanding my client's specific needs, providing best solutions based on my experience.
+I can offer high quality work with fast turnaround.
+Thank you for taking the time to read my profile.
+
+
+Senior Web and Mobile Developer
+----------------------------------------------
+Sasha is a Full-stack engineer with over 7 years of experience in web development, managing all aspects of the development process. 
+Worked on 20+ projects and solved complex business problems in various industries including marketing, healthcare, and eCommerce. 
+Consistently saved costs while increasing profits.
+
+Skills:
+ - Front-end
+  ○ React.js , Angular, Vue.js
+  ○ Responsive
+  ○ HTML, CSS, Bootstrap4, Sass
+ - Back-end
+  ○ PHP/Laravel/Wordpress
+  ○ Node.js, Angular.js
+  ○ MySQL/MongoDB
+  ○ Python, Java
+ - Mobile
+  ○ React Native
+
+Sasha is always ready to implement your idea.
+--------------------------------------------------
+
+Full-stack developer with a broad and versatile coding skill set.
+Quickly helps startups and enterprises with prototypes and ideas by efficiently building those things into reality. 
+Worked on many projects and solved complex business problems in various industries including marketing, healthcare, and eCommerce. Consistently saved costs while increasing profits.
+His expertise lies in building MVPs, apps, enterprise software, web crawlers, REST and Socket APIs, infrastructure modeling, and deployments.
+
+Skills:
+ - Front-end
+  ○ React.js , Angular, Vue.js
+  ○ Responsive
+  ○ HTML, CSS, Bootstrap, Sass
+ - Back-end
+  ○ PHP/Laravel/Wordpress
+  ○ Node.js, Angular.js
+  ○ MySQL/MongoDB
+  ○ Python, Java
+ - Mobile
+  ○ React Native
+
+Joshua is the go-to guy for any of your development needs.
+
+--------------------------------------------------------
+
+Full-stack && Blockchain Engineer with eight years of experience in web development using JavaScript (React, Angular, Vue), Python (Django), and AWS. 
+Worked on a variety of projects at companies of all sizes. 
+He has been an important problem solver in the teams and never failed to deliver quality work with his hard work and problem-solving skills.
+Big experience with dApps creation where most of them were built using Ethereum (public or private network).
+Alexandr really cares about user-friendliness and the performance of your application.
+
+---------------------------------------------------------
+
+Passionate software Developer with over 15 years of experience developing software under both web and Windows environments.
+Specialize in Node.js and .NET frameworks, as well as React, Vue.js and AngularJS on the front-end.
+Built many project using Blockchain tech and hold a Master's degree in computer science.
+Worked with many teams and has been an important problem solver in the team.
+
+-----------------------------------------------------------
+
+Experienced software Developer with over 8 years of experience developing software under both web environment.
+Specialize in  React, Vue.js and AngularJS on the front-end as well as Node.js on the back-end.
+Worked on many projects and solved complex problems in various industries including marketing, healthcare.
+Provide clean and high quality code, fast dev speed.
+
+
+

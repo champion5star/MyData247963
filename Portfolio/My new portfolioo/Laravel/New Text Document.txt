@@ -1,0 +1,9 @@
+InAction photos website
+
+Online Photos Marketplace website based on PHP/MySQL, Laravel framework, AJAX, jQuery, JavaScript, HTML 5, Bootstrap
+
+This is a very custom-made unique photo selling market web platform with specific goals geared towards multiple sellers. Easy shopping cart functionality with digital delivery, Desktop and Mobile friendly.
+
+You may visit the website from this URL: https://inaction.photos or from our demo server URL: http://photo.leadconcept.business
+
+CSS, PSD to HTML, Paypal API

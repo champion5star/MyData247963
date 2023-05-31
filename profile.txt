@@ -1,0 +1,129 @@
+--------------------Full Stack Developer----------------
+$17.78/hr
+More than 13+ years of experience in providing software services to clients globally. A team of 600+ Resources works across some of the most widely used and cutting-edge technologies with complete coordination and responsibility in order to delight our clients. I and my team have a healthy track record of delivering 1500+ projects through various channels.
+
+Using a wide array of technologies my team has developed a number of browser/web-based applications including websites and portals, desktop applications, Native/Hybrid applications, e-commerce portals, custom shopping carts, payment gateway integration, modules/plug-ins, project management software, CRM and point-of-sale utilities for our customers across the globe.
+
+I pride myself on my flexibility and quick turnaround time. I am willing to work any day of the week during whichever hours are most suitable to get the project done promptly and effectively.
+
+If I’ve piqued your interest and you’d like to know more about my preferred kit of tools, favorite technologies, or the projects I am most proud of, get in touch!
+
+I value time - mine as well as yours, so let’s go for it...
+
+--------------------Laravel | Angular| React | MEAN/MERN Expert-------------
+🔰 FRONT END TECHNOLOGIES SPECIALIST/MEAN & MERN EXPERT 🔰
+
+Hi! I am Ashwani with 6+ years of experience in the MEAN/MERN Stacks, building modern-looking Front End Solutions for my overseas clients.
+
+✔ EXPERTISE in TailwindCSS/HTML5/CSS3/Bootstrap, REACT, TYPESCRIPT, ANGULAR JS, ANGULAR 2+ & NODE
+
+✔ WORKED with Firebase, MongoDB, ExpressJS
+
+✔ THOROUGH experience in PHP, Laravel
+
+✔ TIMELY delivery of projects with experience in AGILE/SCRUM methodologies.
+
+THANKS for visiting my profile! I am Looking forward to working with you.
+
+
+------------Professional MEAN/MERN/ React Native developer--------------
+$20.00/hr
+Hi,
+
+• A full-stack web developer with 7+ years of experience specializing in MEAN and MERN stack.
+• 5+ years of experience specializing in React Native
+• Extensive experience in designing professional UI web application using Front-End technologies like HTML, CSS, JAVASCRIPT, jQUERY, AJAX, JSON, SASS, BOOTSTRAP
+And backend technologies like Node js, Express, MongoDB.
+• Designed web applications and web contents utilizing various Search Engine Optimization (SEO) technologies.
+• Solid experience with Responsive Web Design using Bootstrap, Foundation, Material-UI, Prime NG, Angular Material, Semantic-UI and CSS media queries.
+• Good experience in using components, Forms, Events, Keys, Router and Animations.
+• Expertise in working with JavaScript and various MVC JavaScript frameworks/library Angular 5/6, ReactJS, Express and Node.
+• Great Knowledge in creating style guides, best practices and setting UI standards for enterprise application.
+• Used JSON Web Token for Authentication and Bcrypt for hashing.
+• Used Multer to handle file upload.
+• Used Express to handle to handle routes and request.
+• Basic idea in cloud computing and Amazon Web Services (AWS)
+• Experience writing database queries, processes, and data models using a non-relational database like MongoDB.
+• Strong with git based source control
+• Working knowledge on Jasmine, Karma, Mocha, and JavaScript unit testing framework and Module Rollup, Webpack
+• Knowledge of project management tools like Jira, Slack, Git, Zoom
+
+Responsibilities:
+
+• Responsible for implementing UI mockups, integrating third party react libraries and handling/creating Redux store data.
+• Used front-end tools like HTML5, CSS3, React JS and Semantic-UI to build a single page web app that communicates with back-end via RESTful API.
+• Used React JS for creating reusable UI components (multi-field form elements, background file uploads)
+• Maintaining Parent and Child elements by using Redux and Props in React JS.
+• Implemented Routers and History.
+• Used Axios to fetch, post, update and delete data from the backend.
+• Responsible for parsing JSON data to &amp; from the server for presentation &amp; storage purposes in the project.
+• Implemented third-party libraries like Material-UI for styling and tables.
+• Creating RESTFUL Web Services using Node.js &amp; Express.js.
+• Built backend REST API and OAuth with Node JS, Express.JS.
+• Bcrypt was used to keep the password secure through hashing.
+• Extensively used GIT for version controlling and regularly pushed the code to GitHub.
+• Handled cross-browser/platform compatibility issues (IE, Firefox, and Safari) on both Windows and MAC.
+• Interacted with the Development teams to fix the Issues
+• Involved in daily SCRUM meetings to keep track of the project status and used JIRA for task management and SLACK for communication.
+Environment:
+HTML5, CSS3, MVC, JavaScript, ES6, Mongo DB, Express JS, Node.js, AWS, JQuery, NPM, OAuth, Git, Adobe Photoshop.
+
+Thanks.
+
+-------------------------Expert Ionic, Angular Developer----------------
+
+Expert Ionic, Angular & Firebase developer with knowledge of Angular Js, Angular2, Angular4, Angular6, Angular 7. I am having vast knowledge of javascript framework development in web development as well as on server side scripting with node js
+
+My skill set:
+
+Mobile Framework: IONIC framework
+Web Framework : AngularJs framework
+Web Development : HTML, CSS, MySql, AngularJS
+Backend Server Development : nodejs, java, php
+Google : Google Firebase, Firestore
+Source Code Management : Bitbucket and Github
+
+Aim to provide best quality product and long term relationship
+
+------------Expert Laravel Developer----------------
+$13.00/hr
+Hi!
+
+My name is Mukesh Kumar Baghel. I’m a Laravel Developer.
+
+I will be your guide in this challenging and frightening world of web development. You can completely trust me in creating your projects as I:
+
+-Write clear and modern code;
+-Always ship new features;
+-Give you the best solutions and fresh ideas for your project;
+-Never miss deadlines.
+
+I am skillful in problem-solving methods and acquainted with computer languages like:
+
+Front-End:
+# HTML5/CSS3/LESS/SASS(W3C standard);
+# Javascript (Angular /Angular 2/Angular 4/Angular 5, Ember.js, React JS/React Native, Node.js, Ajax, jQuery) & ES6/Typescript;
+# Mobile friendly layout coding;
+# Front-end frameworks (Bootstrap, Tachyons, etc.);
+# Cross-browser compatibility
+
+Back-End:
+# LAMP Stack (Linux, Apache, MySQL, PHP 7);
+# PHP (CakePHP3.x, Yii 1&a2, Laravel5.6, Zend, CodeIgniter);
+# CMS (WordPress, Magento, Joomla, OpenCart);
+# Restful API (Google APIs, Payment Processing, etc.);
+# MySQL, PostgreSQL, MongoDB;
+# Payment Gateways (PayPal, Stripe, Braintree, Paytm, Authorize.net);
+# SMS APIs: Twilio,sinch,plivo & E-mail APIs: Mailgrid, Sendgrid, SES from amazon;
+# Server setup works (SSH, AWS ec2 server using Ubuntu etc.)
+
+- Trello, JIRA, Base-camp etc Project management tool expert.
+- Version Control - SVN, Bit-bucket & Github.
+
+My primary target at work - to pursue the best practices and look for the best matching solutions.
+My websites did not fail to satisfy the users. Again, I keep myself up to date with new technologies and its uses, new tools, and computer languages to give my level best to my clients.
+
+I would love to connect with you to find out more about how I can help, so let's talk and see if I am the right fit for your project.
+
+Best Regards,
+Mukesh Kumar Baghel

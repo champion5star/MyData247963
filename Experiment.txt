@@ -1,0 +1,82 @@
+Full-Stack Developer
+
+- Worked on providing API endpoints with Node.js/Inversify and MongoDB.
+- Built from scratch admin platform for managing platform's database entities and users using React, Node.js, and Mongoose.
+- Implemented complex UI components with React/TypeScript and SCSS.
+- Improved the UX by creating several DnD-based components.
+- Wrote scripts to use and manipulate data from various sources.
+
+Frontend Developer
+
+- Implemented a mobile-first responsive design.
+- Introduced style guides to the project.
+- Improved the overall user experience.
+
+
+Germany Account
+
+Education
+
+Technical University of Berlin 2004-2007 Master's Degree in Computer Science
+Eindhoven University of Technology, Eindhoven, Netherlands, Bachelor of computer science 
+
+
+Senior Front-end Developer TBO INTERACTIVE, Berlin, Germany 2011.3-2014.2
+				EGOTRIBE, Amsterdam, Netherlands 2005 founded
+
+- Created quality mockups and prototypes for websites and validated it with clients.
+- Produced, modified, and maintained websites.
+- Optimized websites for search engines (SEO).
+- Created solutions to make the application more visually appealing and enhance usability.
+- Helped other developers with coding and troubleshooting.
+- Planned, reviewed, and brainstormed applications alongside the development team.
+- Improved the front-end performance of a client application by 30%, reducing the time that users took to perform the tasks and consequently increasing the delivery and billing.
+
+Developer 2007-2010  NEODESIGN,  München, Germany
+		      KERSVERS, Amsterdam, Netherlands 2010 founded
+
+- Developed back-end systems in PHP and Java.
+- Designed and maintained a MySQL database.
+- Developed technical architecture.
+- Pixel perfect UI/UX design using React, Vue.
+
+Software Consultant and Developer 2014.5-2017.12 INNCREWIN TECHNOLOGIES, Sudbrooke, United Kingdom
+
+- Engaged to develop a new booking management solution.
+- Developed a full-stack JavaScript application with React, Node.js, Express, and MongoDB.
+- Targeted both mobile device and desktop users with responsive page layout using Bootstrap.
+- Delivered the iterative product to business.
+- Led a team of four developers.
+
+Full-stack Engineer 2018 somethingcreative, Berlin, Germany
+			INNOWISE GROUP, Arnhem, Netherlands 2007 founded
+
+- Led the development of a product that helps your software engineering team eliminate project delays and multiply your efficiency and effectiveness.
+- Developed the data harvester, APIs, and user-facing web app that allowed for integration with various project management providers and pulling their data.
+- Built infrastructure automation tooling to allow repeatedly deploying our platform and data layers.
+
+---------Certification---------
+
+Certified Web and Mobile Application Developer
+Provider: SMTP
+Issued: January 2020 - Expires: January 2023
+1 year program for learning Web and Mobile Application Development using React and React Native. Successfully passed all required exam for the issuance of certification.
+
+Blockchain ETH
+Provider: blockchain institute
+Issued: December 2020
+Blockchain experts
+
+Certified Smart Contract Developer
+Provider: blockchain Concil
+Issued: December 2020 - Expires: December 2022
+knows deeply what Smart Contracts is and how to create them wisely over any Blockchain platform by programming it over Solidity
+
+---------Other Experience---------
+
+Technical Trainer
+Helping people in technology to boost their knowledge in software development.
+
+5dvsgu47
+
+https://web.skype.com/8:live:.cid.4416a6b41dc8c68e?inviteId=NX5AGAWaQR6W&correlationId=1e67f186-fa0d-4a2d-9fee-e64d0c76e77f

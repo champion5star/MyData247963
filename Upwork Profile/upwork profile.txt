@@ -1,0 +1,214 @@
+- Title: Full Stack (Web & Mobile) Developer
+- Experience1:
+	- company: ITM HOUSE, Toronto, Canada (2011)
+		ITM House is a Toronto based technologically agile software development company.
+		They were founded in 2011 and have a team of 11 employees who specialize in custom software development, AI, and blockchain development.
+		They primarily work with midmarket clients in the utilities, financial services, and healthcare industries.
+	  title: Full Stack Developer
+	  during: 2012.5-2015.7
+	  content: 
+		- Developed back-end systems in PHP and Java.
+		- Designed and maintained a MySQL database.
+		- Developed technical architecture.
+
+	- company: NOVISMART TECH., Wien, Austria (2013)
+		NOVISMART TECH. Is a business consulting company in Wien, Austria.
+		Founded in 2013, the small team offers business consulting, custom software development, IoT development, wearable app development, and more.
+	  title: Full Stack & Blockchain Developer
+	  during: 2016.1-2020.4
+	  content: 
+		- Engaged to develop a new booking management solution.
+		- Developed a full-stack JavaScript application with MERN/MEAN stacks.
+		- Targeted both mobile device and desktop users with React Native.
+		- Delivered the iterative product to business.
+		- Developed NFT marketplace with React and Web3.
+	- company: CodeEpsilon, Lewes, United States (2013)
+		CodeEpsilon is a leading Custom Software Development Company in India & US providing a spectrum of IT services,
+		including IT Consulting, Mobile App Development, Web Development, Creative Design (UI/UX), DevOps, Support, and Maintenance, Migration Service, and Quality Assurance.
+	  title: Full Stack & Blockchain Developer
+	  during: 2020.5-2022.7
+	  content: 
+		- Worked on providing API endpoints with Node.js/Inversify and MongoDB.
+		- Built from scratch admin platform for managing platform's database entities and users using React, Node.js, and Mongoose.
+		- Implemented complex UI components with React/TypeScript and SCSS.
+		- Improved the UX by creating several DnD-based components.
+		- Wrote scripts to use and manipulate data from various sources.
+- Experimence 2:
+Full-stack Developer
+2018-2020
+CodeEpsilon, Lewes, United States
+----------------------------------
+Developing an API with GraphQL.
+Created the UI/UX with React and Styled-component.
+Supported a responsive design with SCSS.
+Implemented TDD and BDD with RSpec and Cypress.
+
+Senior Front-end Developer
+2018-2018
+ESM INBOUND, Bath, United Kingdom
+-----------------------------------
+Developed a single-page application that is used as a management tool for law entities; used React and Apollo.
+Created AWS Lambda functions to track and store the details of law entities.
+Updated the back end and GraphQL.
+
+Lead Developer
+2012-2016
+NOVISMART TECH., Wien, Austria
+-----------------------------------
+Developed REST APIs for web and iOS applications.
+Built a single-page application with Angular and React.
+Developed SaaS products with a team.
+Led the development of a job-posting system.
+Developing real-estate management with Laravel/Vue.js.
+
+
+Web Developer
+2009-2011
+ITM HOUSE, Toronto, Canada
+-------------------------------
+Developed eCommerce websites.
+Built custom CMS and SaaS products.
+Contributed, as a team member, to the development of a social network.
+
+- Overview
+
+I'm a highly skilled full-stack engineer with 7 years of solid experience in JavaScript, PHP.
+Specialize in Responsive web and Mobile development for startups and small to enterprise-level businesses. Ideally, work with React, React Native, Vue / Node, Flutter, .NET / AWS, Blockchain.
+My passion is creating things users will love, and engaging with people to improve the products and I always make sure to bring you upon successive results of highly and creatively qualified results before the project deadline.
+
+My areas of expertise include:
+❤❤❤ React, Redux, Next, Node, Express
+❤❤❤ Vue, Vuex, Angular, NgRxl
+❤❤❤ Flutter, Android, iOS
+❤❤❤ Laravel, PHP
+❤❤❤ WordPress, Shopify, Magento
+❤❤❤ Bitcoin, Ethereum, Solana etc
+
+I would enjoy an opportunity to chat about your upcoming project and share my most similar achievements with you. Feel free to contact me whenever you need my hands.
+Thanks.
+
+	Sasha is a Full-stack engineer with over 9 years of experience in web & mobile development, managing all aspects of the development process. 
+	Worked on 20+ projects and solved complex business problems in various industries including marketing, healthcare, and eCommerce. 
+	Consistently saved costs while increasing profits.
+
+	With a solid mathematical knowledge base and a professional software developer background,
+	Stepan has the experience and skills to fulfill most software engineering role.
+	During his professional career, he's worked on various projects including large enterprise systems, web development, and cloud computing.
+	Stepan is always eager to explore new areas in computer science and apply bleeding-edge technologies.
+
+	Marin is a full-stack web developer who, for the past few years, has been building custom websites and apps for various agencies.
+	A constant about Marin is his dedication to reaching targets on time but not at the cost of the quality of output.
+	In his mind, the given timeframe, the quality of the product, and the client’s satisfaction come first.
+	Marin is looking for long-term projects where he can grow while realizing the client's vision.
+
+	Sergej has solid academic and professional experience in computer science, thanks to which he knows what it takes to come up with effective solutions to complex problems.
+	As a skilled, communicative web developer with over five years of experience in startup and corporate environments, he believes that great results come as a product of great passion.
+	Sergej's drive, positive attitude, and proactive approach help him deliver these results in a very natural way.
+
+Welcome to my profile!!!
+I'm a passionate full stack developer with 7+ years of experience and specialize in web & mobile development using modern frameworks such as React.js, Angular, and Vue.js.
+I have already built many websites(20+) in various industries including marketing, healthcare, and eCommerce.
+Worked as a complex problem solver in teams and the given timeframe, the quality of the product, and the client’s satisfaction come first in my mind.
+
+* JavaScript libraries (React.js, Vue.js, Angular.js)
+* Javascript Backend Framework(Node.js)
+* Frontend Development(HTML, Javascript, CSS, Bootstrap, jQuery)
+* Blockchain
+* E-Commerce (Magento1 & Magento2)
+* PHP Framework(WordPress, Laravel, CodeIgniter)
+* Database(MySQL, PostgreSQL, MongoDB, Firebase)
+* Web Design
+
+I'm always ready for you. Please feel free to contact me anytime.
+Thanks
+		
+
+Pontus is a passionate senior iOS engineer with a great interest in mobile apps.
+With his MS in computer science, he loves working with dynamic teams to build great products and solve complicated problems.
+With his extensive knowledge of the development, he has created a range of applications, from high-quality banking apps to advanced 2D games and programming tools.
+His programming style is creative, thorough, effective, and team-spirited.
+
+Welcome to my profile!
+I'm a professional software developer with 6+ years of experience.
+I specialize in Javascript, Python, PHP.
+In particular I have strong skills in web development using MERN stack, Android & IOS app development, AI and ML.
+I worked on 20+ projects and solved complex business problems in various industries including marketing, healthcare, and eCommerce. 
+Consistently saved costs while increasing profits.
+Please hire me.
+Let us make your idea into the reality.
+Thanks
+
+Saburo is a full-time freelancer with nine years of development experience.
+In his career, he has worked on web development and is exceptionally skilled in Ruby on Rails, PHP, and JavaScript and its frameworks.
+Saburo communicates complex ideas clearly and accurately and works well in teams of all sizes.
+--------------------------------------------------------------------------------------------------
+Hi, everyone
+We are a small team of 5 excellent full-stack & blockchain engineers with 7+ years of solid experience in various competition fields such as Web & Mobile app development, AI, and Blockchain.
+Specialize in website & mobile app development for from startups and small to enterprise-level businesses.
+If you work with us, you will get the most successful result which you want.
+
+Our areas of expertise include:
+✔ Web: React, Redux, Next, Node, Express, Vue, Angular, Laravel, PHP, ASP.NET, C#, Python, Django
+✔ Mobile: Flutter, React Native, Android, iOS
+✔ eCommerce: WordPress, Shopify, Magento
+✔ Crypto currency: Bitcoin, Ethereum, Solana etc
+✔ Machine Learning/Deep Learning: OpenCV, CNN, RNN, Scikit-learn, Keras, Tensorflow, PyTorch, etc
+✔ NLP: Nltk, Spacy
+✔ Data scraping: Scrapy, Requests, Selenium etc
+✔ Data Visualization: Matplotlib, Seaborn etc
+✔ Data manipulation: Pandas, Numpy, etc
+
+Look forward to hearing from you.
+Thanks
+
+------------------------------------------------------------------------------------------------------
+
+E-COMMERCE | REACTJS | REACT NATIVE | ANGULAR | VUE | ANDROID | NODEJS | LAMP | AWS | CUSTOM MOBILE (NATIVE/HYBRID) APPLICATIONS DEVELOPMENT | WORDPRESS-WOOCOMMERCE | PHP (CODEIGNITER, LARAVEL) | SHOPIFY | MAGENTO
+
+12 years of experience in Web and Mobile App Development.
+
+I have developed multiple Next-Level Full Stack websites in my past 10 years of experience.
+
+Skills and Expertise:
+
+💻 MERN Stack (MongoDB, Express.js, React, Node.js)
+💻 MEAN Stack (MongoDB, Express.js, Angular, Node.js)
+💻 React/React Native
+💻 Angular, Ionic
+💻 WordPress, WooCommerce, Shopify
+💻 Magento 2
+💻 PHP/MYSQL (Laravel, CI, Core PHP)
+💻 HTML5, CSS3, AMP, JS, JSP, Servlet, XML, Bootstrap, Material Design, SASS or SCSS
+💻 SQL, NoSQL (RDS, MongoDB, DynamoDB)
+
+-------------------------------------------------------------------------------------------------------
+
+
+
+- Education 2008-2012
+	University Of Toronto (Canada)
+	University of Vienna (Austria)
+	University of Helsinki (Finland)
+
+---------Certification---------
+
+Certified Web and Mobile Application Developer
+Provider: SMTP
+Issued: January 2020 - Expires: January 2023
+1 year program for learning Web and Mobile Application Development using React and React Native. Successfully passed all required exam for the issuance of certification.
+
+Blockchain ETH
+Provider: blockchain institute
+Issued: December 2020
+Blockchain experts
+
+Certified Smart Contract Developer
+Provider: blockchain Concil
+Issued: December 2020 - Expires: December 2022
+knows deeply what Smart Contracts is and how to create them wisely over any Blockchain platform by programming it over Solidity
+
+---------Other Experience---------
+
+Technical Trainer
+Helping people in technology to boost their knowledge in software development.
+

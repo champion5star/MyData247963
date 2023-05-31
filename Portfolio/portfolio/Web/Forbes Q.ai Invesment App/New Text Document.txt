@@ -1,0 +1,18 @@
+Forbes Q.ai Investment App
+FintechWeb App DesignMobile App DesignMobile UI DesignWeb App UIMobile App UIProduct DesignUI Design
+https://tryq.ai//
+Q.AI is a robot investment platform that offers over-the-counter investment strategies. Users can subscribe to different strategies based on their profile and risk appetite.
+
+Forbes was working on what would be the next generation of their new investment app.
+
+Initially, they urgently needed to develop a new concept for a portfolio allocation interaction and, further on, to conceive new features and ideas.
+
+Challenges:
+
+• Consolidate the UI branding
+• Fix the design structure and process
+• Increase funded accounts
+• Increase Assets Under Management (AUM$)
+• Decrease the user bounce rate
+Investment dashboard concept
+This concept dashboard designed for Q.AI aimed to offer an elevated experience while investing. The question was: "What if there is a more exciting representation of an investment portfolio?" With that question, we've moved forward with a visualization experience that brings an orb representing all the users subscribed to investment portfolios. Every little orb inside represents an investment portfolio. When the user drills down, it is possible to see in detail the investment portfolio and all the assets managed under it. The representation is always in real-time, and the orb can be calmer or displaced based on market volatility.

@@ -1,0 +1,17 @@
+Polymatica
+UX ResearchWireframingPrototypingUser InterviewsRemote Usability TestingUI DesignSaaSData AnalysisMobile AppsDashboardsData ScienceData VisualizationMobile App Design
+SUMMARY
+I helped enhance usability and define a visual identity for the new version of Polymatica. I also contributed to adapt this digital product to western European market standards.
+
+PROBLEM STATEMENT
+Polymatica is a Russian engineering-driven company that developed a data visualization SaaS solution that targets citizen data scientists. Like a lot of startups, they have rushed to hit the market but did not focus on the user experience and prioritized functionalities.
+
+PROJECT GOAL
+The main goal of this project has been to define smoother user experience of the product from an existing MVP and adapt it to the western European market.
+We needed also to simplify the product to make it more accessible to a non-data scientists target.
+
+MY CONTRIBUTION:
+· User research
+· Low-fidelity prototyping
+· UX design (journey maps and user flows)
+· UI design (high-fidelity mockups)
