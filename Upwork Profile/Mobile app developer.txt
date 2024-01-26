@@ -1,0 +1,127 @@
+Senior Mobile app developer
+
+############################## About overview ###################################
+
+If you are looking for Mobile App Development (IOS, Android, Hybrid, Native), you are at the right place. I am a professional android developer and IOS app developer to develop high quality mobile apps for android and iPhone apps development. I can also develop a web based admin panel for your mobile app development.
+
+Please contact me before Placing Order. Knowing your needs is important.
+
+SERVICES PROVIDED:
+- Android app development
+- iOS app development for iPhone
+- Native app Development
+- React native app development
+- Flutter app development
+- Mobile app development
+- UI/UX app design
+
+iOS and Android applications I previously developed:
+- E-commerce applications
+- Social Applications with real time chat
+- iOS & android Games
+- Health and Fitness apps
+- Reservation Apps
+- Tools & Utility Applications
+AND MUCH MORE!
+
+WHY ME:
+- Super fast Delivery
+- VIP Customer Support
+- Professional Mobile app development
+- Experienced app developer for android and ios
+- Best UI/UX App designs
+- Bug Free Android & iPhone Applications
+- 100% Satisfaction Guarantee
+
+############################### Portfolios #############################
+
+Mobile application Development
+We have created a mobile application for both iOS and Android.
+App Name:- 360 Journal
+Technology Used : Swift , Kotlin, Laravel 
+3rd Party integration: Google Fit, Apple Health, Google Firebase 
+Feature of the app: track your daily activities, program tracker, competition, chat, Maintain / Achieve your fitness goal. The 360°Journal app delivers 360 results about how you live your life. Our core objective is to help you reduce stress and boost your energy. That is what we do best. If you want to BE, DO or HAVE anything in life – it is going to take energy. We follow the seven Energy giving dimensions which include: Sleep, Exercise, Nutrition, Good stress, Values, Goal setting, and Gratitude.
+
+https://apps.apple.com/us/app/360-journal/id1562848980
+https://play.google.com/store/apps/details?id=com.journal360.coach
+
+
+On demand service app | Build It
+Buildit is the new generation of contractors at your fingertips.
+We are the leading most effective app out there to help find all local general contractors to independent contractors near you to assist you with all your residential and commercial projects.
+
+✅ Build app ( on-demand service app ) https://buildit.page/#
+https://play.google.com/store/apps/details?id=com.buildapp.user
+https://play.google.com/store/apps/details?id=com.buildapp.provider
+Location: USA Technology stack used : Koltin, Laravel, Swift,xcode
+
+
+Taxi Booking application
+We have developed a taxi booking app from scratch by using a custom coding technique.
+Following will be the steps for the entire development:
+1. App Mock-up designs
+2. Graphic designs
+3. Database designs
+4. Backend development
+5. Admin panel development
+6. iOS app development ( user and Driver )
+7. Android app development ( User and Driver )
+8. App testing
+9. App deployment on Apple and Google play store.
+
+Social Networking applications
+App Mock-up designs.
+Graphic designs Database designs Backend development Admin panel Development iOS app development Android app development App Testing Deployment
+
+################################ Experience #################################
+
+Senior Mobile Engineer | Smoothstack
+August 2014 - May 2018
+Contracted to remotely manage and develop an iOS version of existing Android app used for package tracking. Coached team in adopting Agile strategies. Engaged daily with stakeholders. Maintained both product and sprint backlogs and developed user stories. Facilitated remote daily scrum, remote peer code reviews and scrum ceremonies.
+
+Senior Flutter Developer | UpStack
+June 2018 - September 2020
+Performed role as a senior developer for various concurrent iOS & Flutter mobile development projects most notably an app for banking in Latin America. Tasked with creating and maintaining product roadmaps, product and sprint backlogs, writing and decomposing user stories. Worked with a team of developers in Latin America and provided guidance. Simultaneously managing various projects and backlogs. Technologies used: Flutter, Dart. Swift, SwiftUIPerformed role as a senior developer for various concurrent iOS & Flutter mobile development projects most notably an app for banking in Latin America. Tasked with creating and maintaining product roadmaps, product and sprint backlogs, writing and decomposing user stories. Worked with a team of developers in Latin America and provided guidance. Simultaneously managing various projects and backlogs.
+Technologies used: Flutter, Dart. Swift, SwiftUI
+
+Senior Flutter Engineer | Fennel
+October 2020 - August 2022
+Contract assignment supporting mobile application development for Nationwide Insurance and their suite of mobile products. Converting current native mobile apps to Google Flutter platform. Pair programming with Nationwide staff on tasks to reproduce existing functionality in Google Flutter and Dart, write unit tests and UI tests.
+Skills: Flutter · Dart · Mobile Application Development · Firebase · Cloud Firestore · Google Cloud Platform (GCP) · AWS Lambda · Git
+
+################################ Skills ##################################
+
+React Native
+Flutter
+Swift
+Kotlin
+Android
+IOS
+Java
+Javascript
+HTML
+CSS
+CrossPlatform
+
+################################ Education #################################
+
+Netherland
+Fontys Hogescholen
+Bachelor of Applied Science (BASc)
+IT & Media Design
+2015-2020
+
+Poland
+Kharkiv National University of Radioelectronics
+Bachelor of Applied Science (BASc)
+Computer science
+
+Switzerland
+Universität Bern
+Master of Science (MS)
+Computer science
+
+################################ Other Experience #################################
+
+Firebase Experience
+I have 6 years of Firebase, Firebase Cloud Storage, Firebase Cloud Messaging, Firebase Cloud Firestore for online database and user management.
