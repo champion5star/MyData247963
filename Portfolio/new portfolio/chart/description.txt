@@ -1,1 +1,0 @@
-Admin Panel for managing all the report for the Machine Kits. Large number of data should be handled on single page, so API handling was very important. Used Rxjs operators to handle (junior developer's) existing APIs

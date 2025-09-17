@@ -1,5 +1,0 @@
-Trip Safe
-
-We aim at creating state-of-the-art infrastructure to support everyone while giving them freedom of movement. We cannot be in the lockdown situation always and we all have to step out to continue with our daily life. At this time, Tripsafe is there with you to ensure that you have all the required information for the enhancement of your safety. Moreover, we understand that when it comes to personal data, security, and privacy are of utmost importance. That’s why, with our experience of more than a decade in this domain, we make sure that our users have total control over the details shared by them.
-
-React Native, React, Node, React Framework

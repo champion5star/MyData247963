@@ -1,5 +1,0 @@
-Casa Mia Coliving, a coliving space. Our vision is to make it easy for you when it comes to moving and living in a new city. All you need to do is choose the location and move in, we take care of all the rest.
-
-It's built on Vue.js and Nuxt.js
-
-Google map api
